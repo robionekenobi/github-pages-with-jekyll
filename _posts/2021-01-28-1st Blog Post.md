@@ -1,3 +1,7 @@
+---
+title: "My 1st Blog"
+date: 2021-01-28
+---
 ### Hi all,
 
 #### My Header 4
